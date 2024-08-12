@@ -1,0 +1,2 @@
+( Fill it with 3 to 6 dorks; don't fill it with hundreds or thousands of dorks, because the tool might stop when all the dorks do a search. )
+inurl:view.php?id= site:gov
